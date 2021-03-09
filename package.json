@@ -1,0 +1,17 @@
+{
+  "name": "telegram-bot-demo",
+  "private": true,
+  "scripts": {
+    "start": "node webhook-bot.js"
+  },
+  "devDependencies": {
+    "eslint": "^7.21.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-import-resolver-node": "^0.3.4",
+    "eslint-plugin-import": "^2.22.1"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "telegraf": "^4.1.2"
+  }
+}
